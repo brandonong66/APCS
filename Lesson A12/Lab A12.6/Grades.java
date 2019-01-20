@@ -11,10 +11,10 @@ public class Grades {
 	private double gpa;
 	private int numClasses;
 	private int a;
-   private int b;
-   private int c;
-   private int d;	
-   private int f;
+   	private int b;
+   	private int c;
+   	private int d;	
+   	private int f;
 	private String grade;
 
 
